@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "com.example.game2048",
+    "restype": "quick_app",
+    "name": "2048",
+    "description": "",
+    "preview": [
+      "屏幕截图 2026-11-07 151212.png",
+      "屏幕截图 2026-11-07 151221.png",
+      "屏幕截图 2026-11-07 151153.png"
+    ],
+    "icon": "icon.png",
+    "cover": "8D5892F15CC54420991D47B3C5AFAB0D.jpg",
+    "author": [
+      {
+        "name": "jian804",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "com.example.game2048.debug.1.0.0.rpk"
+    }
+  },
+  "ext": {}
+}
